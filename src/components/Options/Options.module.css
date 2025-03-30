@@ -1,0 +1,28 @@
+.optionsMain {
+    margin-bottom: 20px;
+}
+
+.optionsList {
+    display: flex;
+    gap: 8px;
+    list-style: none;
+    padding: 0;
+}
+
+.optionsList li {
+    display: inline-block;
+}
+
+.optionsList button {
+    padding: 8px 16px;
+    font-size: 16px;
+    border: 1px solid #888;
+    background-color: #f8f8f8;
+    cursor: pointer;
+    border-radius: 6px;
+    transition: background-color 0.2s ease-in-out;
+}
+
+.optionsList button:hover {
+    background-color: #e0e0e0;
+}

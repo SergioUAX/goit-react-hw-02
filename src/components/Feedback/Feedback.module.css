@@ -1,0 +1,15 @@
+.feedbackMain {
+    margin-top: 16px;
+}
+
+.feedbackList {
+    list-style: none;
+    padding: 0;
+}
+
+.feedbackList li {
+    font-size: 18px;
+    margin-bottom: 4px;
+    font-weight: bold;
+    color: #333;
+}
